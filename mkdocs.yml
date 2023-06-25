@@ -1,0 +1,12 @@
+site_name: CatsRM
+
+nav:
+  - Home: 'index.md'
+  - Classes: 'classes.md'
+
+theme:
+    name: readthedocs
+    highlightjs: true
+    hljs_languages:
+        - yaml
+        - python
